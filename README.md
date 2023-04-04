@@ -1,6 +1,6 @@
 # Gvantsa
 
 
-#blacksea
-#maritime
+# blacksea
+# maritime
 *
